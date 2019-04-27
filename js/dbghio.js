@@ -1,0 +1,5 @@
+
+function howdy(){
+
+	alert("Howdy");
+}
