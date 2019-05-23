@@ -1,4 +1,10 @@
 /* deanbunn.github.io CSS */
 
-body { background-color: #000000; color: #00FF00;  }
+body { background-color: #2E3436; color: #D3D7CF;  }
+
+.dbionavbar { background-color: #4E9A06; color: #3465A4 !important; }
+
+.dbionavbar > li > a { color: #3465A4 !important; }
+
+.dbionavbar > li:hover { color: #FFFFFF !important;}
 
